@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.main {
+  background-color: white;
+  height: 100vh;
+  padding: 30px;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+.sec-Con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  padding: 50px;
+  width: 50vw;
+  border-radius: 20px;
+  height: 50vh;
+  background-image: linear-gradient(to bottom, pink, lightblue);
+}
+.hh {
+  font-family: roboto;
+  font-size: 30px;
+  color: black;
+}
+.pp {
+  font-family: roboto;
+  font-size: 20px;
+  color: brown;
+}
+.bb {
+  color: black;
+  background-color: aliceblue;
+  padding: 10px;
+  border: solid 1px;
+  border-radius: 10px;
+  width: 100px;
+}
